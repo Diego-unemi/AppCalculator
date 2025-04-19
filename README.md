@@ -3,13 +3,9 @@
 
 ### 1. Clona el repositorio:
 ```
-git clone https://github.com/Diego-unemi/Proyecto-deteccion-de-violencia.git
+https://github.com/Diego-unemi/AppCalculator.git
 ```
-### 2. Navega al directorio del proyecto:
-```
-cd Proyecto-deteccion-de-violencia
-```
-### 3. Crea un entorno virtual e instálalo:
+### 2. Crea un entorno virtual e instálalo:
 ```
 python -m venv venv
 ```
